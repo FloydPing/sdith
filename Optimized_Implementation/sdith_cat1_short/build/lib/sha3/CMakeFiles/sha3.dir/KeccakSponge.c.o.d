@@ -1,0 +1,24 @@
+lib/sha3/CMakeFiles/sha3.dir/KeccakSponge.c.o: \
+ /home/duda/Downloads/crypto/schemes/sdith/SDitH-v2/Optimized_Implementation/sdith_cat1_short/lib/sha3/KeccakSponge.c \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/stdc-predef.h \
+ /home/duda/Downloads/crypto/schemes/sdith/SDitH-v2/Optimized_Implementation/sdith_cat1_short/lib/sha3/KeccakSponge.h \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/string.h \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/bits/libc-header-start.h \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/features.h \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/features-time64.h \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/bits/wordsize.h \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/bits/timesize.h \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/sys/cdefs.h \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/bits/long-double.h \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/gnu/stubs.h \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/gnu/stubs-64.h \
+ /nix/store/9ds850ifd4jwcccpp3v14818kk74ldf2-gcc-14.2.1.20250322/lib/gcc/x86_64-unknown-linux-gnu/14.2.1/include/stddef.h \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/bits/types/locale_t.h \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/bits/types/__locale_t.h \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/strings.h \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/bits/strings_fortified.h \
+ /nix/store/r25srliigrrv5q3n7y8ms6z10spvjcd9-glibc-2.40-66-dev/include/bits/string_fortified.h \
+ /home/duda/Downloads/crypto/schemes/sdith/SDitH-v2/Optimized_Implementation/sdith_cat1_short/lib/sha3/align.h \
+ /home/duda/Downloads/crypto/schemes/sdith/SDitH-v2/Optimized_Implementation/sdith_cat1_short/lib/sha3/config.h \
+ /home/duda/Downloads/crypto/schemes/sdith/SDitH-v2/Optimized_Implementation/sdith_cat1_short/lib/sha3/avx2/KeccakP-1600-SnP.h \
+ /home/duda/Downloads/crypto/schemes/sdith/SDitH-v2/Optimized_Implementation/sdith_cat1_short/lib/sha3/KeccakSponge.inc

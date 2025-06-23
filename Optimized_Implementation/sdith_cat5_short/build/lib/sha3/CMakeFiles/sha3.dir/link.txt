@@ -1,0 +1,2 @@
+/nix/store/0fsnicvfpf55nkza12cjnad0w84d6ba7-gcc-wrapper-14.2.1.20250322/bin/ar qc libsha3.a CMakeFiles/sha3.dir/KeccakHash.c.o CMakeFiles/sha3.dir/KeccakSponge.c.o CMakeFiles/sha3.dir/KeccakSpongetimes4.c.o CMakeFiles/sha3.dir/KeccakHashtimes4.c.o "CMakeFiles/sha3.dir/avx2/KeccakP-1600-AVX2.s.o" "CMakeFiles/sha3.dir/avx2/KeccakP-1600-times4-SIMD256.c.o"
+/nix/store/0fsnicvfpf55nkza12cjnad0w84d6ba7-gcc-wrapper-14.2.1.20250322/bin/ranlib libsha3.a

@@ -1,0 +1,1 @@
+/nix/store/0fsnicvfpf55nkza12cjnad0w84d6ba7-gcc-wrapper-14.2.1.20250322/bin/g++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/bench_sdith.dir/link.d CMakeFiles/bench_sdith.dir/test/bench_sdith.c.o -o bench_sdith  libvole.a lib/sha3/libsha3.a lib/aes/libaes.a -lm
